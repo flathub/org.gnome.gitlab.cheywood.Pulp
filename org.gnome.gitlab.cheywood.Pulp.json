@@ -34,8 +34,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/cheywood/Pulp.git",
-                    "tag": "0.1.14",
-                    "commit": "0572e5611551dc53b179f68a57671f5e3c17e6d6"
+                    "tag": "0.1.15",
+                    "commit": "99c44da4d0b4f5c0eb95eb6aac9c1cb2e99e1763"
                 }
             ]
         }
