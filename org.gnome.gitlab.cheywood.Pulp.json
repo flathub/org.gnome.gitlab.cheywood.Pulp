@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.gitlab.cheywood.Pulp",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "command": "pulp",
     "finish-args": [
@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/cheywood/Pulp.git",
-                    "tag": "2026.4",
-                    "commit": "e4a9b1366ab6ef8ecb441aab2c634e061e862e9e"
+                    "tag": "2026.5",
+                    "commit": "0e7fb89ce62ec747cc56e892d8311150db36c821"
                 }
             ]
         }
